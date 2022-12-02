@@ -1,6 +1,8 @@
-# novicnik
+# Novičnik
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a basic 'subscribe to newsletter' Vue component template.
+
+It sends a POST request to the https://podpri.lb.djnd.si/api/subscribe/ endpoint.
 
 ## Recommended IDE Setup
 

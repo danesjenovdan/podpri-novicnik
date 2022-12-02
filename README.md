@@ -1,1 +1,1 @@
-# podpri-novicnik
+# Novičnik
